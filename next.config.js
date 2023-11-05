@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  basePath: '/your-repository-name', // Replace with your GitHub repository name
-  assetPrefix: '/your-repository-name/', // Replace with your GitHub repository name
+  basePath: '/ArtisanAvenue',
+  assetPrefix: '/ArtisanAvenue/',
 }
 const nextConfig = {
 	images: {
